@@ -11,11 +11,10 @@ java & spring trainee <br><br>
 
 <div align="center">
 
-## 👾Stacks👾 </div>
+## 👾Stacks👾 
 <br><br>
 
-<div align="center">
-  ## 🔰Studying🔰
+## 🔰Studying🔰
 <br> </div>
 
 <br> <br>
