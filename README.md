@@ -15,7 +15,7 @@ java & spring trainee <br><br>
 <br><br>
 
 <div align="center">
-## 🔰Studying🔰 </div>
+## 🔰Studying🔰 <br> </div>
 
 <br> <br>
 <div align="center">
