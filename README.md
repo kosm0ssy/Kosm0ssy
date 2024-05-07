@@ -3,11 +3,7 @@
 # Hello World! 🙋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkosm0ssy%2Fhit-counter&count_bg=%2365DFE5&title_bg=%23606060&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kosm0ssy) <br>
 kosmos' github <br>
-java & spring trainee <br><br>
-
-## 🍀Contact🍀<br> </div>
-📧 : xzerokim@gmail.com <br>
-💬 : <br> <br>
+java & spring trainee <br><br> </div>
 
 <div align="center">
 
@@ -18,9 +14,12 @@ java & spring trainee <br><br>
 ## 🔰Studying🔰
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br> </div>
+<br><br>
 
-<br> <br>
+## 🍀Contact🍀<br> </div>
+📧 : xzerokim@gmail.com <br>
+💬 : <br> <br>
+
 <div align="center">
 
 ## 🌊Stat🌊 </div>
