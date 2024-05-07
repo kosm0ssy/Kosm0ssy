@@ -14,7 +14,8 @@ java & spring trainee <br><br>
 ## 👾Stacks👾 </div>
 <br><br>
 
-## 🔰Studying🔰
+<div align="center">
+## 🔰Studying🔰 </div>
 
 <br> <br>
 <div align="center">
