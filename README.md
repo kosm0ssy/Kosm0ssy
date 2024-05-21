@@ -29,7 +29,7 @@ java & spring trainee <br><br> </div>
 
 ## 🌊Stat🌊 </div>
 
-![Kosm0ssy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosm0ssy&show_icons=true&theme=github_dark_dimmed)
+![kosm0ssy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosm0ssy&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosm0ssy&layout=compact)
 
 
