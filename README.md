@@ -30,6 +30,6 @@ java & spring trainee <br><br> </div>
 ## 🌊Stat🌊 </div>
 
 ![kosm0ssy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosm0ssy&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosm0ssy&langs_count=8&hide=html.css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosm0ssy&layout=compact)
 
 
