@@ -7,7 +7,7 @@ Kos' github <br>
 
 <div align="center">
  
-## 👾Stacks👾 
+## 👾Stacks👾  
 
 <br><br>
 
