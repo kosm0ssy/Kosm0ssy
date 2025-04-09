@@ -27,7 +27,7 @@
 <br>
 
 #### Tool & Collaboration
-
+![UiPath](https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
