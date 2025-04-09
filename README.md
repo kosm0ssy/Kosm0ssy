@@ -47,7 +47,7 @@
 
 ## 🍀Contact🍀<br> </div>
 
-📧 : xzerokim@gmail.com <br>
+Email : xzerokim@gmail.com <br>
 <br>
 
 <div align="center">
