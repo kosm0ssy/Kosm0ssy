@@ -64,5 +64,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kosm0ssy&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosm0ssy&layout=compact&theme=default" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosm0ssy&layout=compact&theme=default" height="180"/> -->
 </p>
